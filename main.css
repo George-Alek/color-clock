@@ -1,0 +1,11 @@
+.wrapper {
+  background-color: black;
+  height: 500px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 250px;
+  font-size: 40px;
+}
