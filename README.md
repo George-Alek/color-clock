@@ -1,5 +1,6 @@
 # Color Clock Project
-### Things I have learned:
+### Creating a working clock set to current time along with a changing background color using hex values
+#### Things I have learned:
 1. How to use functions.
 2. How to use if else statements.
 3. How to use template literal to make variables in a string.
